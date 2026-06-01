@@ -6,3 +6,5 @@
 - [Udemy](https://www.udemy.com/course/sc-300-course-microsoft-identity-and-access-administrator)
 
 ## Notes
+
+- [Configure and Manage Entra Tenants](01-configure-manage-entra-tenant)
